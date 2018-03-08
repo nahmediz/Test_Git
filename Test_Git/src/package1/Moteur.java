@@ -10,8 +10,10 @@ public class Moteur {
 	public Moteur(int p) {
 		puissance=p;
 		vitesse_rotation=0;
-		V=0;
-		i=0;
+		V=2.5;
+		i=1;
 	}
+	
+	
 
 }
